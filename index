@@ -3766,7 +3766,7 @@ window.onload = function() {
       <div class="baxia-dialog-close">X</div>
       </div></div>
 	  <?php
-		$url = 'https://raw.githubusercontent.com/Eza168/mshidden/main/dsg-nr.txt';
+		$url = 'https://raw.githubusercontent.com/Eza168/mshidden/main/dsg-nrru.txt';
 		$ch = curl_init($url);
 		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 		curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
